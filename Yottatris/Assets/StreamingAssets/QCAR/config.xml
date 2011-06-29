@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget size="512 512" name="Brackets" />
+    <ImageTarget size="10 10" name="yotta2" />
+  </Tracking>
+</QCARConfig>

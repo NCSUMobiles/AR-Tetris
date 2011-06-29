@@ -1,0 +1,1 @@
+.unityPackage is the project package which can be easily imported into Unity. The Folder contains the uncompressed files used within the project.
